@@ -21,8 +21,8 @@ We use four widely used federated benchmark datasets to simulate heterogeneous f
 | CIFAR-100 | Image classification | 100      | 60000    | 600                 | 100     | 4CNN + 2FC |
 | HAR       | Activity recognition | 30       | 10269    | 342.3               | 6       | 4CNN + 2FC |
 
-MNIST, CIFAR-10 and CIFAR-100 datasets are automatically downloaded from keras.dataset. The HAR dataset needs to be downloaded from the following address and extracted to /data/har/.
-https://drive.google.com/drive/folders/1kjpu4wio_XbO_XXjYwIQmT-kTCsw_rQI?usp=sharing
+MNIST, CIFAR-10 and CIFAR-100 datasets are automatically downloaded from keras.dataset. 
+HAR dataset needs to be downloaded from [here](https://drive.google.com/drive/folders/1kjpu4wio_XbO_XXjYwIQmT-kTCsw_rQI?usp=sharing) and extracted to /data/har/.
 
 ## Requirements
 - Install the libraries listed in requirements.txt
